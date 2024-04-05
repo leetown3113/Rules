@@ -23,5 +23,5 @@ DOMAIN-SUFFIX,b-cdn.net
 # 漫画
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,nhentai.net
-DOMAIN-SUFFIX,mangagenki.com
+#DOMAIN-SUFFIX,mangagenki.com
 DOMAIN-SUFFIX,simply-hentai.com
